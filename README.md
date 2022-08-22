@@ -10,6 +10,7 @@ Measuring backward means you make decisions based on what has already happened, 
 <details>
 <summary> Mathematics </summary>
 - [  ] [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
 - [  ] [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 </details>
 
