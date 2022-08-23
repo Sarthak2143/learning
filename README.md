@@ -11,6 +11,8 @@ Measuring backward means you make decisions based on what has already happened, 
 <summary> Physics </summary>
 <!-- TODO: Add links-->
 
+</details>
+
 
 <details>
 <summary> Mathematics </summary>
