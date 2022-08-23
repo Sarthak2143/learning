@@ -8,6 +8,17 @@ Measuring backward means you make decisions based on what has already happened, 
 ## Generic core skills
 
 <details>
+<summary> Programming (Golang) </summary>
+
+- [The Go Programming Language](https://www.gopl.io/)
+- [Gophercises](https://gophercises.com/)
+- [Go Web Dev](https://gowebexamples.com/)
+- [Exercism](https://exercism.io/tracks/go)
+- [Go By Example](https://gobyexample.com/)
+
+</details>
+
+<details>
 <summary> Physics </summary>
 <!-- TODO: Add links-->
 
