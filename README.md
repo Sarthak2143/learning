@@ -8,7 +8,13 @@ Measuring backward means you make decisions based on what has already happened, 
 ## Generic core skills
 
 <details>
+<summary> Physics </summary>
+<!-- TODO: Add links-->
+
+
+<details>
 <summary> Mathematics </summary>
+
 - [ ] [3Blue1Brown: Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 	- [ ] [The Essence of Calculus, Chapter 1](https://www.youtube.com/watch?v=WUvTyaaNkzM) `0:17:04`
 	- [ ] [The paradox of the derivative | Essence of calculus, chapter 2](https://www.youtube.com/watch?v=9vKqVkMQHKk) `0:17:57`
@@ -39,10 +45,11 @@ Measuring backward means you make decisions based on what has already happened, 
 	- [ ] [Eigenvectors and eigenvalues | Essence of linear algebra, chapter 14](https://www.youtube.com/watch?v=PFDu9oVAE-g) `0:17:15`
 	- [ ] [Abstract vector spaces | Essence of linear algebra, chapter 15](https://www.youtube.com/watch?v=TgKwz5Ikpc8) `0:16:46`
 - [ ] [3Blue1Brown: Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-	- [X] [But what is a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk) `0:19:13`
+	- [ ] [But what is a Neural Network? | Deep learning, chapter 1](https://www.youtube.com/watch?v=aircAruvnKk) `0:19:13`
 	- [ ] [Gradient descent, how neural networks learn | Deep learning, chapter 2](https://www.youtube.com/watch?v=IHZwWFHWa-w) `0:21:01`
 	- [ ] [What is backpropagation really doing? | Deep learning, chapter 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U) `0:13:54`
 	- [ ] [Backpropagation calculus | Deep learning, chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8) `0:10:17`
+
 </details>
 
 I'll add more soon to match my progress.
