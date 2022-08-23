@@ -51,6 +51,8 @@ Getting better every day by >= 0.1%
 - [ ] [Freecodecamp: Flexbox Tutorial](https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/)
 - [ ] [Traversy Media: Flexbox Crash Course](https://www.youtube.com/watch?v=3YW65K6LcIA)
 
+</details>
+
 <details>
 <summary> Code Editors && IDEs </summary>
 
