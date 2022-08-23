@@ -5,6 +5,10 @@ Logs of things I'm learning.
 I made this repo to track my progress of learning. This motivates me to learn more and *measuring backwards.*
 Measuring backward means you make decisions based on what has already happened, not on what you want to happen.
 
+Getting better every day by >= 0.1%
+
+![The Power of tiny grains](https://jamesclear.com/wp-content/uploads/2015/08/tiny-gains-graph-1200x1200.jpg)
+
 ## Generic core skills
 
 <details>
