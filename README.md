@@ -10,17 +10,35 @@ Measuring backward means you make decisions based on what has already happened, 
 <details>
 <summary> Programming (Golang) </summary>
 
-- [The Go Programming Language](https://www.gopl.io/)
-- [Gophercises](https://gophercises.com/)
-- [Go Web Dev](https://gowebexamples.com/)
-- [Exercism](https://exercism.io/tracks/go)
-- [Go By Example](https://gobyexample.com/)
+- [ ] [The Go Programming Language](https://www.gopl.io/)
+- [ ] [Gophercises](https://gophercises.com/)
+- [ ] [Go Web Dev](https://gowebexamples.com/)
+- [X] [Exercism](https://exercism.io/tracks/go)
+- [ ] [Go By Example](https://gobyexample.com/)
+
+</details>
+
+<details>
+<summary> Code Editors && IDEs </summary>
+
+- [ ] [ThePrimeagen: Vim As Your Editor](https://youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
+    - [X] [(1/6) The Basic Vim Movement](https://youtu.be/H3o4l4GVLW0)
+    - [X] [(2/6) Foundation for speed](https://youtu.be/gSHf_b6AWKc)
+    - [ ] [(3/6) Horizontal speed](https://youtu.be/Q6mr7w0YmkQ)
+    - [ ] [(4/6) Vertical domination](https://youtu.be/4uPRlnTUlMY)
+    - [ ] [(5/6) Going Full Vim: File movement, Buffers, Splits](https://youtu.be/N05REqmq0X4)
+    - [ ] [(6/6) Vim Long and Prosper](https://youtu.be/e1BFdY0NBLY)
+- [ ] [Emacs Rocks](https://emacsrocks.com/)
 
 </details>
 
 <details>
 <summary> Physics </summary>
-<!-- TODO: Add links-->
+
+- [ ] [8.01x: Classical Mechanics](https://youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
+    - [X] [Introduction](https://youtu.be/wWnfJ0-xXRE)
+    - [ ] [Lect1: Powers of 10, Units, Dimensions, Errors, Scaling Arguments](https://youtu.be/GtOGurrUPmQ)
+    ...
 
 </details>
 
