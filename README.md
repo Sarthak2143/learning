@@ -15,12 +15,41 @@ Getting better every day by >= 0.1%
 <summary> Programming (Golang) </summary>
 
 - [ ] [The Go Programming Language](https://www.gopl.io/)
-- [ ] [Gophercises](https://gophercises.com/)
+- [ ] [Course: Algorithms with Go](https://courses.calhoun.io/courses/cor_algo)
+    - [X] Module 01
+    - [ ] Module 02
+    - ...
+- [ ] [Course: Gophercises](https://gophercises.com/)
 - [ ] [Go Web Dev](https://gowebexamples.com/)
 - [X] [Exercism](https://exercism.io/tracks/go)
 - [ ] [Go By Example](https://gobyexample.com/)
 
 </details>
+
+<details>
+<summary> Web Development </summary>
+
+- [ ] [TheOdinProject](https://theodinproject.com)
+    - [ ] [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
+        - [X] Introduction
+        - [X] Pre Requisties
+        - [X] Git Basics
+        - [X] HTML Foundations
+        - [X] CSS Foundations
+        - [X] Flexbox
+        - [ ] Javascript Basics
+        - [ ] The Backend
+        - [ ] Conclusion
+
+    - [ ] [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
+    - [ ] [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)
+
+- [ ] [MDN: The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+- [ ] [w3schools: The Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+- [ ] [Interneting is Hard: Flexbox](https://www.internetingishard.com/html-and-css/flexbox/)
+- [ ] [MDN: Basic conecpts of Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+- [ ] [Freecodecamp: Flexbox Tutorial](https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/)
+- [ ] [Traversy Media: Flexbox Crash Course](https://www.youtube.com/watch?v=3YW65K6LcIA)
 
 <details>
 <summary> Code Editors && IDEs </summary>
@@ -42,7 +71,7 @@ Getting better every day by >= 0.1%
 - [ ] [8.01x: Classical Mechanics](https://youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e)
     - [X] [Introduction](https://youtu.be/wWnfJ0-xXRE)
     - [ ] [Lect1: Powers of 10, Units, Dimensions, Errors, Scaling Arguments](https://youtu.be/GtOGurrUPmQ)
-    ...
+    - ...
 
 </details>
 
