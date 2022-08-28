@@ -84,6 +84,7 @@ Getting better every day by >= 0.1%
 <details>
 <summary> Mathematics </summary>
 
+- [ ] [John Krohn: Linear Algebra for Machine Learning](https://www.jonkrohn.com/posts/2021/5/9/linear-algebra-for-machine-learning-complete-math-course-on-youtube)
 - [ ] [3Blue1Brown: Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 	- [ ] [The Essence of Calculus, Chapter 1](https://www.youtube.com/watch?v=WUvTyaaNkzM) `0:17:04`
 	- [ ] [The paradox of the derivative | Essence of calculus, chapter 2](https://www.youtube.com/watch?v=9vKqVkMQHKk) `0:17:57`
