@@ -32,7 +32,8 @@ Getting better every day by >= 0.1%
 - [ ] [Book: Building Blocks for Theoretical Computer Science](https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html)
 - [ ] [Coursera: Computational Thinking for Problem  Solving](https://www.coursera.org/learn/computational-thinking-problem-solving)
 - [ ] [MIT OCW: Computational Thinking](https://youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0)
-
+- [ ] [Khan Academy: Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [ ] [Khan Academy: College Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles)
 
 </details>
 
