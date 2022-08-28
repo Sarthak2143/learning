@@ -21,7 +21,9 @@ Getting better every day by >= 0.1%
     - ...
 - [ ] [Course: Gophercises](https://gophercises.com/)
 - [ ] [Go Web Dev](https://gowebexamples.com/)
-- [X] [Exercism](https://exercism.io/tracks/go)
+- [ ] [Exercism](https://exercism.io/tracks/go)
+    - [X] [Concepts](https://exercism.io/tracks/go/concepts)
+    - [ ] [Exercises](https://exercism.io/tracks/go/exercises)
 - [ ] [Go By Example](https://gobyexample.com/)
 
 </details>
