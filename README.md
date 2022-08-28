@@ -41,16 +41,6 @@ Getting better every day by >= 0.1%
 
 - [ ] [TheOdinProject](https://theodinproject.com)
     - [ ] [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
-        - [X] Introduction
-        - [X] Pre Requisties
-        - [X] Git Basics
-        - [X] HTML Foundations
-        - [X] CSS Foundations
-        - [X] Flexbox
-        - [ ] Javascript Basics
-        - [ ] The Backend
-        - [ ] Conclusion
-
     - [ ] [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
     - [ ] [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)
 
