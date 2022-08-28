@@ -27,6 +27,16 @@ Getting better every day by >= 0.1%
 </details>
 
 <details>
+<summary> Theoretical Computer Science </summary>
+
+- [ ] [Book: Building Blocks for Theoretical Computer Science](https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html)
+- [ ] [Coursera: Computational Thinking for Problem  Solving](https://www.coursera.org/learn/computational-thinking-problem-solving)
+- [ ] [MIT OCW: Computational Thinking](https://youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0)
+
+
+</details>
+
+<details>
 <summary> Web Development </summary>
 
 - [ ] [TheOdinProject](https://theodinproject.com)
