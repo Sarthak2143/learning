@@ -53,7 +53,7 @@ Getting better every day by >= 0.1%
 - [ ] [MDN: Basic conecpts of Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [ ] [Freecodecamp: Flexbox Tutorial](https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/)
 - [ ] [Traversy Media: Flexbox Crash Course](https://www.youtube.com/watch?v=3YW65K6LcIA)
-- [ ] [FreeCodeCamp: CSS Tutorial - Full Course for beginners (11 hrs+)] (https://youtu.be/OXGznpKZ_sA)
+- [ ] [FreeCodeCamp: CSS Tutorial - Full Course for beginners (11 hrs+)](https://youtu.be/OXGznpKZ_sA)
 - [ ] [FreeCodeCamp: Frontend Wed Dev Bootcamp](https://youtu.be/zJSY8tbf_ys)
 
 </details>
