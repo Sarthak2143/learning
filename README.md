@@ -12,6 +12,17 @@ Getting better every day by >= 0.1%
 ## Generic core skills
 
 <details>
+<summary> Theoretical Computer Science </summary>
+
+- [ ] [Book: Building Blocks for Theoretical Computer Science](https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html)
+- [ ] [Coursera: Computational Thinking for Problem  Solving](https://www.coursera.org/learn/computational-thinking-problem-solving)
+- [ ] [MIT OCW: Computational Thinking](https://youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0)
+- [ ] [Khan Academy: Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [ ] [Khan Academy: College Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles)
+
+</details>
+
+<details>
 <summary> Programming (Golang) </summary>
 
 - [ ] [The Go Programming Language](https://www.gopl.io/)
@@ -29,13 +40,10 @@ Getting better every day by >= 0.1%
 </details>
 
 <details>
-<summary> Theoretical Computer Science </summary>
+<summary> Programming (C/C++) </summary>
 
-- [ ] [Book: Building Blocks for Theoretical Computer Science](https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html)
-- [ ] [Coursera: Computational Thinking for Problem  Solving](https://www.coursera.org/learn/computational-thinking-problem-solving)
-- [ ] [MIT OCW: Computational Thinking](https://youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0)
-- [ ] [Khan Academy: Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
-- [ ] [Khan Academy: College Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles)
+- [ ] [The C Programming Language]
+- [ ] [GNU C Reference Manual]
 
 </details>
 
