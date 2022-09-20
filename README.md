@@ -16,7 +16,12 @@ Getting better every day by >= 0.1%
 
 - [ ] [Book: Building Blocks for Theoretical Computer Science](https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html)
 - [ ] [Coursera: Computational Thinking for Problem  Solving](https://www.coursera.org/learn/computational-thinking-problem-solving)
+- [ ] [MIT: 6.0001 Introduction to Computer Science and Python](https://youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+- [ ] [MIT: 6.0002 Introduction to Computation Thinking and Data Science](https://youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
+- [ ] [MIT: 6.01SC Introduction to EECS I](https://youtube.com/playlist?list=PL9B24A6A9D5754E70)
+- [ ] [MIT: 6.006 Introduction to Algorithms](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [ ] [MIT OCW: Computational Thinking](https://youtube.com/playlist?list=PLP8iPy9hna6T56GkMHEdSrjCCheNuEwI0)
+- [ ] [MIT OCW: Mathematics for Computer Science](https://youtube.com/playlist?list=PLB7540DEDD482705B)
 - [ ] [Khan Academy: Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ] [Khan Academy: College Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles)
 
