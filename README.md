@@ -56,9 +56,9 @@ Getting better every day by >= 0.1%
 <summary> Web Development </summary>
 
 - [ ] [TheOdinProject](https://theodinproject.com)
-    - [ ] [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
-    - [ ] [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
-    - [ ] [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)
+    - [ ] [(1/3) Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
+    - [ ] [(2/3) Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
+    - [ ] [(3/3)Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)
 
 - [ ] [MDN: The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 - [ ] [w3schools: The Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
